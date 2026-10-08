@@ -1,0 +1,8 @@
+{
+  "age": 32, "monthly_income": 40000, "previous_month_expense": 29000, "avg_3_month_expense": 28000,
+  "savings_amount": 3000, "food_expense": 8000, "transport_expense": 3500, "shopping_expense": 5000,
+  "entertainment_expense": 3000, "medical_expense": 2000, "education_expense": 1500, "utilities_expense": 4000,
+  "other_expense": 2000, "transaction_count": 45, "total_debt": 120000, "monthly_emi": 3500,
+  "credit_utilization": 0.55, "late_payment_count": 2, "missed_payment_count": 0, "repayment_ratio": 0.85,
+  "emergency_fund": 40000, "investment_amount": 1000
+}

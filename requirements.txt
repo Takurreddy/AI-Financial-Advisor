@@ -1,0 +1,7 @@
+scikit-learn==1.8.0   # pickles were saved with 1.8.0 - keep the same version
+pandas
+numpy
+joblib
+streamlit
+plotly
+pytest
